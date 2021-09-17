@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science and Deep Learning
 - 💞️ I’m looking to collaborate on Nlp and Machine Learning doing companies
 - 📫 How to reach me :
+- Mobile: 9962043435
 Email: mappetiswarna90@gmail.com
 linked in :https://www.linkedin.com/in/mappeti-swarnalatha-78962a85/
 github :https://github.com/swarnasatheesh13/swarnasatheesh13/new/main?
