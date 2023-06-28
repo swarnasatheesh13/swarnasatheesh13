@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swarnasatheesh13
-- 👀 I’m interested in datascience and deep learning,nlp projects
-- 🌱 I’m currently learning data science and Deep Learning
+- 👀 I’m interested in data science and deep learning,NLP projects
+- 🌱 I’m a certified data science and Deep Learning professional.
 - 💞️ I’m looking to collaborate on Nlp and Machine Learning doing companies
 - 📫 How to reach me :
 - Mobile: 9962043435
